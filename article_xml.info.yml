@@ -1,0 +1,6 @@
+name: Articles XML Feed
+description: 'Generates and controls the Articles XML Feed.'
+type: module
+core: 8.x
+version: 8.x-1.0
+package: Custom

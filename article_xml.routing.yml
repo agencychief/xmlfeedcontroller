@@ -1,0 +1,6 @@
+feed.articles.xml:
+  path: 'xml/articles.xml'
+  defaults:
+    _controller: '\Drupal\article_xml\Controller\ArticleController::article_xml'
+  requirements:
+    _permission: 'access content'
